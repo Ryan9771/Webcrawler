@@ -10,6 +10,7 @@ A basic webcrawler that performs these steps starting with a root url:
 
 ### A basic webcrawler (`basic_webcrawler.py`)
 A basic implementation of a webcrawler that extracts unique urls from a starting url, and so on. 
+
 **Features Include**
     - This crawler obeys **robots.txt** to scrape urls that can be scraped
     - This crawler makes use of a **threadpool** to maximise use of the machine's resources
