@@ -1,9 +1,9 @@
 # A Webcrawler
 
-A basic webcrawler that starting with a root url:
+A basic webcrawler that performs these steps starting with a root url:
 1. Finds all urls in the root url
-2. In each of these urls, find all urls
-3. Add all unique urls to a structure
+2. In each of these urls, finds all urls
+3. Adds all unique urls to a structure
 4. Outputs 100 unique urls
 
 ## 2 Implementations
