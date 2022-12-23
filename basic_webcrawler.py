@@ -2,7 +2,7 @@
 This file is a basic implementation of a webcrawler that extracts unique urls
 from a starting url, and so on. This implementation is designed to obey
 robots.txt, and also implements threadpooling. For a more detailed list of 
-features, have a look at README.md
+features, feel free to check out README.md
 """
 
 from bs4 import BeautifulSoup
